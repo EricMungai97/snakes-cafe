@@ -1,4 +1,7 @@
-# snakes-cafe
+
+# Project: snakes-cafe
+
+## Author: Eric Kinuthia
 
 This project mimics the functionality of a point of sale restaurant system using your basic Python tools and understanding of the basics of the language.
 
